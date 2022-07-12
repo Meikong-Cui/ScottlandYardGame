@@ -5,3 +5,4 @@ This project is an implementation of the table game 'ScottlandYard' in Java. The
 ![imagetext](https://github.com/Meikong-Cui/ScottlandYardGame/blob/main/image/scott.jpg)
 
 This project is built on IntelliJ and maven. Run the 'Main.java' and a game board will appear. All the art resources are from UoB.
+![imagetext](https://github.com/Meikong-Cui/ScottlandYardGame/blob/main/cw-model/src/main/resources/map_large_waifu2x_2x.jpg)
